@@ -1,0 +1,82 @@
+[
+    {
+        "text": "The intramuscular challenge test with 25 UI of Miacalcic was positive with an immediate anaphylactic reaction.",
+        "golden-truth": "POSITIVE|MIACALCIC|25 UI|ANAPHYLACTIC REACTION"
+    },
+    {
+        "text": "Vitamin K2 was infused along with discontinuation of warfarin.",
+        "golden-truth": "NEGATIVE|||"
+    },
+    {
+        "text": "Signs of ischemia, including mottling of skin and painful extremities, preceded the development of the characteristic electrolyte abnormalities and cardiac arrhythmias.",
+        "golden-truth": "NEGATIVE|||"
+    },
+    {
+        "text": "A 17-year-old female patient who had been taking oral minocycline (50 mg twice daily) for 3 weeks for acne developed an eruption that progressed to an exfoliative dermatitis.",
+        "golden-truth": "POSITIVE|MINOCYCLINE|50 MG TWICE DAILY|ERUPTION"
+    },
+    {
+        "text": "Acute myocardial infarction during high-dose methylprednisolone therapy for Graves' ophthalmopathy.",
+        "golden-truth": "POSITIVE|METHYLPREDNISOLONE|HIGH-DOSE|ACUTE MYOCARDIAL INFARCTION"
+    },
+    {
+        "text": "Life-threatening acute hyponatraemia induced by low dose cyclophosphamide and indomethacin.",
+        "golden-truth": "POSITIVE|CYCLOPHOSPHAMIDE|LOW DOSE|ACUTE HYPONATRAEMIA"
+    },
+    {
+        "text": "Full recovery occurred because of early pick up, emphasizing the need for careful fluid balance monitoring of patients receiving cisplatin chemotherapy.",
+        "golden-truth": "NEGATIVE|||"
+    },
+    {
+        "text": "Growth and adrenal suppression in asthmatic children treated with high-dose fluticasone propionate.",
+        "golden-truth": "POSITIVE|FLUTICASONE PROPIONATE|HIGH|GROWTH AND ADRENAL SUPPRESSION"
+    },
+    {
+        "text": "To our knowledge, this is the first clear report of reactivation of \"latent\" Histoplasmosis after anti-TNF-alpha therapy.",
+        "golden-truth": "NEGATIVE|||"
+    },
+    {
+        "text": "Several hypotheses are advanced to explain the failure of bone erosions to heal.",
+        "golden-truth": "NEGATIVE|||"
+    },
+    {
+        "text": "The cutaneous manifestations of infection can include papules, plaques, nodules, vesicles, ulcers, ecchymosis, and, rarely, cellulitis.",
+        "golden-truth": "NEGATIVE|||"
+    },
+    {
+        "text": "The case reported here is of a child given a large dose of intravenous iron sucrose (16 mg/kg) over 3 hours, who subsequently developed features of systemic iron toxicity.",
+        "golden-truth": "POSITIVE|IRON SUCROSE|16 MG/KG|SYSTEMIC IRON TOXICITY"
+    },
+    {
+        "text": "Pulmonary fibrosis subsequent to high doses of CCNU for chronic myeloid leukemia.",
+        "golden-truth": "POSITIVE|CCNU|HIGH DOSES|PULMONARY FIBROSIS"
+    },
+    {
+        "text": "Disseminated histoplasmosis manifesting as a soft-tissue chest wall mass in a heart transplant recipient.",
+        "golden-truth": "NEGATIVE|||"
+    },
+    {
+        "text": "A case of severe visual loss following a single dose of vincristine is described.",
+        "golden-truth": "POSITIVE|VINCRISTINE|SINGLE DOSE|SEVERE VISUAL LOSS"
+    },
+    {
+        "text": "We describe a patient in whom impressive hypoglycemia developed following treatment with this agent.",
+        "golden-truth": "NEGATIVE|||"
+    },
+    {
+        "text": "She had been on Copaxone 20 mg/day treatment for 2 years when she first exhibited gastrointestinal symptoms.",
+        "golden-truth": "POSITIVE|COPAXONE|20 MG/DAY|GASTROINTESTINAL SYMPTOMS"
+    },
+    {
+        "text": "Adalimumab belongs to the group of tumour necrosis factor-alpha inhibitors and has been approved for the treatment Crohn's Disease since 2007.",
+        "golden-truth": "NEGATIVE|||"
+    },
+    {
+        "text": "Hyponatremic seizures after suprapubic catheter placement in 7-year-old child.",
+        "golden-truth": "NEGATIVE|||"
+    },
+    {
+        "text": "Pheripheral edema was observed in five female patients after taking proton pump inhibitors omeprazole, lansoprazole, or pantoprazole for 7-15 days for peptic acid diseases in recommended standard doses.",
+        "golden-truth": "POSITIVE|LANSOPRAZOLE|STANDARD|PHERIPHERAL EDEMA"
+    }
+]
